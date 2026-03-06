@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.19041.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>WiderCodex</AssemblyName>
+    <RootNamespace>WiderCodex</RootNamespace>
+    <Product>Wider Codex</Product>
+    <Title>Wider Codex</Title>
+    <Description>Launches Codex and injects a wider chat layout.</Description>
+    <PackageId>WiderCodex</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <ApplicationIcon>codex.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
